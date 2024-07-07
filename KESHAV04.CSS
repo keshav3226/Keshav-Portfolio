@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  color: aliceblue;
+  font-size: 1cm;
+  margin-right: 0%;
+}
+
+z {
+  float: left;
+  width: 18cm;
+  height: 15.5cm;
+  margin-top: 0%;
+}
+input {
+  width: 30%;
+  height: 30px;
+}
+form {
+  border: 2px solid black;
+  text-align: right;
+}
